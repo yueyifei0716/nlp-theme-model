@@ -15,3 +15,5 @@ trump
 model
 
 *.txt
+
+/.ipynb_checkpoints/
