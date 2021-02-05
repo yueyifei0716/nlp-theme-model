@@ -9,11 +9,9 @@ out
 gen
 
 # dataset
-trump
+/dataset/
 
 # model
-model
+/model/
 
-*.txt
 
-/.ipynb_checkpoints/
