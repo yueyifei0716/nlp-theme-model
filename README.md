@@ -6,6 +6,7 @@ detecting keywords from large amounts of text data updated in read time has beco
 The keyword detection problem aims at predicting important information that has not been
 discovered before the keywords are frequently searched by users. However, compared with the traditional
 media data, the media data in the new era has 3 features:
+
 * Strong timeliness
 * More personalized and colloquial language
 * Relatively short length
@@ -16,12 +17,12 @@ which currently combining TF-IDF and LDA.
 
 ## Table of Contents
 
-- [Models and Implementations](#models-and-implementations)
+* [Models and Implementations](#models-and-implementations)
   * [Preprocess](#preprocess)
   * [Baselines](#baselines)
-    + [TF-IDF](#tf-idf)
-    + [LDA](#lda)
-    + [Word2vec](#word2vec)
+    * [TF-IDF](#tf-idf)
+    * [LDA](#lda)
+    * [Word2vec](#word2vec)
   * [New method](#new-method)
 
 ## Models and Implementations
