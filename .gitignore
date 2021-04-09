@@ -2,16 +2,11 @@
 ### Example user template template
 ### Example user template
 
-# IntelliJ project files
 .idea
+.vscode
 *.iml
 out
 gen
 
 # dataset
-/dataset/
-
-# model
-/model/
-
-.vscode
+dataset
